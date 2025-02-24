@@ -8,8 +8,3 @@ GitLab User Cleaner is a Python tool that automates the removal of blocked and b
 - **Asynchronous processing** – Uses `aiohttp` for efficient API requests.
 - **Environment-based configuration** – Secure and flexible setup using environment variables.
 - **Docker support** – Run the script easily in a containerized environment.
-
-## Installation
-
-```bash
-pip install aiohttp
